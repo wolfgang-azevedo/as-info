@@ -12,7 +12,6 @@ from get_as_info import GetBGPInfo
 import argparse
 import logging
 
-logging.basicConfig(filename='example.log', filemode='a', level=logging.DEBUG)
 parser = argparse.ArgumentParser() #Instanciado o método ArgumentParser
 
 parser.add_argument("-i", "--ip", help="Enter the IP Address")
