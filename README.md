@@ -9,8 +9,8 @@ This script was developed to run on python3.7 or above.
 
 # How to run this script
 
-$ get_as.py -i IP_ADDRESS
+$ ./get_as.py -i IP_ADDRESS
 
 or 
 
-$ get_as.py --help
+$ ./get_as.py --help
