@@ -10,7 +10,6 @@ on BGP View API
 
 from get_as_info import GetBGPInfo
 import argparse
-import logging
 
 parser = argparse.ArgumentParser() #Instanciado o método ArgumentParser
 
